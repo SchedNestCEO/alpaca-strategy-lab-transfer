@@ -1,0 +1,3 @@
+symbol,signal_date,assessment_time,verdict,reason,headline_count,source_id
+AAPL,2024-02-01,2024-02-01T20:30:00+00:00,SAFE,no_material_downside_event,5,news-assessment-001
+AAPL,2024-02-02,2024-02-02T20:30:00+00:00,RISKY,material_company_specific_shock,4,news-assessment-002
