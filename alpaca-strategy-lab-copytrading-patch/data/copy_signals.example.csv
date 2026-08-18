@@ -1,0 +1,3 @@
+leader_id,symbol,side,leader_time,leader_price,signal_time,follower_price,source_trade_id,verified
+leader_alpha,AAPL,BUY,2025-01-02T14:31:00+00:00,100.00,2025-01-02T14:33:00+00:00,100.35,trade-001,true
+leader_alpha,AAPL,SELL,2025-01-08T15:10:00+00:00,106.00,2025-01-08T15:12:00+00:00,105.70,trade-001,true

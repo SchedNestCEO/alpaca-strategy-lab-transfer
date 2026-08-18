@@ -1,0 +1,1 @@
+"""Pure, research-only strategy signal functions."""
